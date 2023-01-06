@@ -1,4 +1,4 @@
-# Time Now
+# Dragon Slayer
 
 ### App Description
 
@@ -8,7 +8,7 @@ items in rooms, events, and other game elements are randomized to ensure a uniqu
 
 ### App Demo
 
-<img src="assets/demo.gif" width=800><br>
+<img src="demo.gif" width=800><br>
 
 ### Features
 
